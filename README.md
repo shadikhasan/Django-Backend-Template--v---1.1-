@@ -53,8 +53,8 @@ myproject/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
+git clone https://github.com/shadikhasan/Django-Backend-Template.git
+cd Django-Backend-Template
 ```
 
 ### Create `.env`
