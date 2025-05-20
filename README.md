@@ -14,8 +14,8 @@ myproject/
 │   ├── settings/
 │   │   ├── __init__.py
 │   │   ├── base.py
-│   │   ├── development.py
-│   │   └── production.py
+│   │   ├── dev.py
+│   │   └── prod.py
 │   ├── urls.py
 │   ├── wsgi.py
 │   └── celery.py
